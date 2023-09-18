@@ -21,7 +21,7 @@ Eğer aradığın soruların cevapları GitHub docs'ta yoksa, Google'lama beceri
 5. Bir Branchten diğerine geçmek için kullandığın KOMUT nedir? Mesela `isim-soyisim` branch'inde çalıştığını hayal et ve main branch'ine geçmek istiyorsun, ne yaparsın?
     'git checkout'
 6. `git fetch`, `git merge` ve `git pull` arasındaki farklıarı açıklayınız. Bu konutlar ne yapar açıklayınız.
-
+    Git fetch komutunda veriler sadece indirilirken, git pull komutunda veriler indirilir ve yerel deponuzda yüklemeler yapılır.
 7. Merge conflict nedir?
     İki kişi aynı dosyayı ve aynı satırı değiştirirse ve git otomatik olarak merge edemezse bu durumda conflict yani çakışma olacaktır.
 8. Merge conflict'i nasıl çözeriz?
